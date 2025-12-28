@@ -13,7 +13,6 @@ This project allows users to:
 - View the top three predicted objects in the image
 - See confidence scores for each prediction
 
-The model can recognize 1,000 plus real world object categories including animals, vehicles, food items, everyday objects, and scenes.
 
 ## How does this project work?
 
